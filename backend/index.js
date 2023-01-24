@@ -11,8 +11,8 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api/movies', require('./routes/movie.route'));
-app.use('/', (req, res) => res.send('API in /api/movies'));
+app.use('/ASU/movies', require('./routes/movies'));
+app.use('/', (req, res) => res.send('API in /api/asu'));
 
 // Starting the server
 app.listen(app.get('port'), () => {
