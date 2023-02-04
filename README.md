@@ -6,10 +6,11 @@ This project is a RESTful API that provides information on movies. It was develo
 
 # Features
 
-Retrieve information on movies, including details such as cast, crew, and ratings.
-Search for movies by keyword, director, actor, and more.
-View detailed information on movies, including posters and trailers.
-Getting Started
+. Retrieve information on movies, including details such as cast, crew, and ratings.
+. Search for movies by keyword, director, actor, and more.
+. View detailed information on movies, including posters and trailers.
+
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
