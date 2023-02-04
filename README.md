@@ -1,10 +1,10 @@
 # API_Movies
 This project is a movie API, developed using WebStorm. It features a fully developed backend and an attractive and user-friendly frontend. The API allows users to access information on movies, including details such as cast, crew, and ratings.
-Movie API
+# Movie API
 
 This project is a RESTful API that provides information on movies. It was developed using WebStorm and includes a fully functional backend and frontend. The API allows users to access details such as cast, crew, ratings, and more for a large database of movies.
 
-Features
+# Features
 
 Retrieve information on movies, including details such as cast, crew, and ratings.
 Search for movies by keyword, director, actor, and more.
@@ -42,7 +42,3 @@ MongoDB
 Contributing
 
 Contributions are welcome. If you find a bug, please open an issue or submit a pull request.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
